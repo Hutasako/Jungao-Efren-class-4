@@ -1,6 +1,6 @@
 ## Questions
 1. True or false: Version control is only useful for programming-related projects.
-Answer:
+Answer:False
 
 2. True or false: Git is a distributed version control tool.
 Answer:
