@@ -12,4 +12,4 @@ Answer:True
 Answer:False
 
 5. True or false: Commits are organized in chronological order.
-Answer:
+Answer:True
