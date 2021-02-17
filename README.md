@@ -3,7 +3,7 @@
 Answer:False
 
 2. True or false: Git is a distributed version control tool.
-Answer:
+Answer:True
 
 3. True or false: A single commit can include changes for multiple files.
 Answer:
